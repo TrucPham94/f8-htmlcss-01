@@ -628,11 +628,16 @@ a {
 }
 
 .footer .social-link {
+  background: #f9f9f9;
   width: 28px;
   height: 28px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.footer .social-link + .social-link {
+  margin-left: 16px;
 }
 
 .footer .social-link:hover {
