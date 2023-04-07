@@ -27,6 +27,7 @@ body {
 
 a {
   text-decoration: none;
+  /* cursor: pointer; */
 }
 
 .btn {
@@ -120,7 +121,7 @@ a {
   /* tai sao chia ty le line height */
   line-height: 1.5;
   letter-spacing: 0.01em;
-  color: #687690;
+  color: #687691;
 }
 
 .hero .title {
